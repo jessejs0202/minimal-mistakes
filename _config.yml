@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-TW"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Jessie 節熙"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "簡單生活，樂活人生" # site tagline that appears below site title in masthead
+name                     : "Jessie 節熙"
+description              : "活在愛與思辨裡，用文字與自己和世界對話。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,53 +113,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jessie 節熙"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "2023 年暑假從圖資所下岸，2024 年 5 月開始體驗社畜人生 🐖 目前在中研院當專案助理。土生土長台中人，北上四年終於離開，因緣際會又回到台北 🤣 活在愛與思辨裡，用文字與自己和世界對話。"
+  location         : "台北／台中"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "IG：簡單生活，樂活人生"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/"
+    - label: "Threads：Jessie 節熙｜節約簡樸，熙明和樂"
+      icon: "fab fa-fw fa-threads"
+      url: "https://www.threads.net/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://www.instagram.com/"
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://www.threads.net/"
+  since: "2024"
 
 
 # Reading Files
